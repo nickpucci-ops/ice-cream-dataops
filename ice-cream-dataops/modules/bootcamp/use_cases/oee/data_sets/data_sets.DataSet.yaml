@@ -1,0 +1,6 @@
+- externalId: {{ uc_oee_ds_external_id }}
+  name: asset:uc_oee
+  description: This dataset contains asset data for the Hamburg location.
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit

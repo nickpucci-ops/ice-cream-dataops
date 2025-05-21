@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Cognite Toolkit stuff
+build/
+build_info*
+function_local_venvs/
